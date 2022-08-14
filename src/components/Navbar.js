@@ -11,7 +11,7 @@ export default function ButtonAppBar() {
         <Toolbar>
           <Link style={{ textDecoration: "none" }} to="/">
             <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-              News
+              Quiz
             </Typography>
           </Link>
         </Toolbar>
